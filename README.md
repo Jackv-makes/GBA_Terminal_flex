@@ -21,7 +21,7 @@ The aftermarket terminal: [3 pin battery terminal](https://www.lcsc.com/product-
 
 The flex PCB sits directly on top of the existing battery terminal footprint. The bottom two mounting nubs on the aftermarket terminal need to be snipped off so that it sits flush on the PCB. I also remove the middle pin with a pair of pliers but it is not necessary(the pin is unused.) I also find it best to solder on the aftermarket battery terminal to the flex pcb before soldering it on top of the existing battery terminal footprint. 
 
-<img width="700" height="677" alt="image" src="https://github.com/user-attachments/assets/aaaee40b-cc51-45c2-acd2-d4eb96f5a5fe" />
+<img width="700" height="677" alt="image" src="https://github.com/user-attachments/assets/477cd7a6-8a1b-4249-b884-65e4f15e2b87" />
 <img width="700" height="677" alt="image" src="https://github.com/user-attachments/assets/6ee284d7-2724-4177-ba77-65c04e840a66" />
 <img width="700" height="677" alt="image" src="https://github.com/user-attachments/assets/a4a22b72-3f78-4a4a-abbf-6449cd6fcf8e" />
 
