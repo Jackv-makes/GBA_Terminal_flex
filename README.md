@@ -25,6 +25,7 @@ The flex PCB sits directly on top of the existing battery terminal footprint. Th
 <img width="700" height="677" alt="image" src="https://github.com/user-attachments/assets/6ee284d7-2724-4177-ba77-65c04e840a66" />
 <img width="700" height="677" alt="image" src="https://github.com/user-attachments/assets/a4a22b72-3f78-4a4a-abbf-6449cd6fcf8e" />
 
+***If anyone finds this component on Mouser or Digikey, please let me know!
 
 # Credit and Thanks
 
